@@ -12,7 +12,7 @@ public class Pattern2 {
 		double power = 2.0d;
 		int numberOfTerms = 100;
 		
-		for(int i=0;i<numberOfTerms;i++) System.out.print( Math.pow(i, power) + " ");
+		for(int i=1;i<=numberOfTerms;i++) System.out.print( Math.pow(i, power) + " ");
 	}
 
 }
