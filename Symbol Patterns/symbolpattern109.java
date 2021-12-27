@@ -1,11 +1,23 @@
-n=int(input())
-for i in range (n):
-    for j in range (1,n+1-i):
-        print(j, end='')
-    for k in range (2*i+1):
-        print('*',end='')
-    for l in range (n-i,0,-1):
-        print(l, end='')
-    print()
-for m in range (2*n+1):
-    print('*', end='')
+class Main 
+{     
+    public static void main(String[] args) 
+        {
+        int n=4;
+        for(int i=0;i<n;i++)
+        {
+          for(int j=1; j<n-i+1; j++)
+          System.out.print(j);
+            
+          for(int k=0; k<2*i+1; k++)
+          System.out.print("*");
+            
+          for(int l=n-i; l>0; l--)
+          System.out.print(l);
+          
+          System.out.println();
+        }
+        for(int j=0;j<2*n+1;j++)
+          System.out.print("*");  
+      }  
+        
+    }
