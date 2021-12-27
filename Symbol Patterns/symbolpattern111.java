@@ -1,7 +1,17 @@
-n=5
-for i in range (n):
-    for j in range (n-i-1):
-        print(' ', end='')
-    for k in range (2*i+2):
-        print('*', end='')
-    print()
+class Main 
+{     
+    public static void main(String[] args) 
+      {
+        int n=5;
+        for(int i=0;i<n;i++)
+        {
+          for(int j=0; j<n-i-1; j++)
+          System.out.print(" ");
+
+          for(int k=0; k<2*i+2; k++)
+          System.out.print("*");
+          
+          System.out.println();
+         }
+     }  
+}  
