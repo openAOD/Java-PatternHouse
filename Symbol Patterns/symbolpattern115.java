@@ -1,15 +1,28 @@
-n = 5
-for i in range (n):
-    for j in range (n,i,-1):
-        print(' ', end=' ')
-    for k in range(i+1):
-        if k == 0 or i == n-1:
-            print('*', end=' ')
-        else:
-            print(' ', end=' ')
-    for m in range (i):
-        if m == i-1 or i == n-1:
-            print('*', end=' ')
-            continue
-        print(' ', end=' ')
-    print()
+class Main 
+{     
+   public static void main(String[] args) 
+        {
+        int n=5;
+        for(int i=0;i<n;i++)
+        {
+          for(int j=n; j>i; j--)
+          System.out.print(" ");
+
+          for(int k=0; k<i+1; k++)
+          {
+            if (k==0 | i==n-1)
+                System.out.print("*");
+            else 
+                System.out.print(" ");    
+          }
+          for(int m=0; m<i; m++)
+          {
+            if (m==i-1 | i==n-1)
+                System.out.print("*");
+            else 
+                System.out.print(" "); 
+          }
+          System.out.println();
+          }
+     }  
+}   
