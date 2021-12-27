@@ -1,13 +1,27 @@
-n=5
-for i in range(n):
-    for j in range (1,n-i):
-        print('*', end='')
-    for k in range (i,2*i+1):
-        print(k+1, end='')
-        if k+1 == 2*i+1:
-            for a in range (k, i, -1):
-                print(a, end='')
-            break
-    for l in range (n-i, 1, -1):
-        print('*', end='')
-    print()
+class Main 
+{     
+    public static void main(String[] args) 
+        {
+        int n=5;
+        for(int i=0;i<n;i++)
+        {
+          for(int j=1; j<n-i; j++)
+          System.out.print("*");
+
+          for(int k=i; k<2*i+1; k++)
+          {
+          System.out.print(k+1);
+          if (k+1 == 2*i+1)
+          {
+            for(int a=k; a>i; a--)
+            System.out.print(a);
+            break;
+          }
+          }
+          for(int l=n-i; l>1; l--)
+          System.out.print("*");
+          
+          System.out.println();
+          }
+       }  
+    }
