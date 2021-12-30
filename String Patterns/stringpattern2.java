@@ -9,6 +9,7 @@ public class StringPattern2
         String rev = "";
         
         int l = str.length();
+        int n = s.nextInt();
         
         char ch;
         
@@ -17,7 +18,7 @@ public class StringPattern2
             rev= ch+rev;
         }
         
-        for(int i=0;i<4;i++) {
+        for(int i=0;i<n;i++) {
             System.out.println(rev);
         }
     }
