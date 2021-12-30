@@ -5,7 +5,6 @@ public class StringPattern1
         Scanner s = new Scanner(System.in);
         String str = s.nextLine();
         int n = s.nextInt();
-        int l = str.length();
         
         for(int i=0;i<n;i++) {
             System.out.println(str);
