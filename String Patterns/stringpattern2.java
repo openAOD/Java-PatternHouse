@@ -23,3 +23,11 @@ public class StringPattern2
         }
     }
 }
+
+// Sample Input :- HOUSE
+//                 4
+// Output :-
+// ESUOH
+// ESUOH
+// ESUOH
+// ESUOH
