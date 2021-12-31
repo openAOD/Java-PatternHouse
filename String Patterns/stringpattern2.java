@@ -19,7 +19,10 @@ public class StringPattern2
         }
         
         for(int i=0;i<n;i++) {
-            System.out.println(rev);
+            for(int j=0;j<l;j++) {
+                System.out.print(rev.charAt(j) + " ");
+            }
+            System.out.println();
         }
     }
 }
@@ -27,7 +30,7 @@ public class StringPattern2
 // Sample Input :- HOUSE
 //                 4
 // Output :-
-// ESUOH
-// ESUOH
-// ESUOH
-// ESUOH
+// E S U O H
+// E S U O H
+// E S U O H
+// E S U O H
