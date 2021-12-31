@@ -18,3 +18,11 @@ public class StringPattern5
         System.out.println();
     }
 }
+
+// Sample Input :- HOUSE
+// Output :-
+//     H
+//    HO
+//   HOU
+//  HOUS
+// HOUSE
