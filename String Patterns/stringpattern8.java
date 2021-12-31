@@ -3,13 +3,14 @@ public class StringPattern8
 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        String str = s.nextLine();
-        int l = str.length();
-        int n = s.nextInt();
-        int index = l - n - 1;
+        String str = s.nextLine(); // Input String
+        int l = str.length(); // Length of String.
         
-        for(int i=0;i<n-1;i++) {
-            for(int j=0;j<n;j++) {
+        int n = s.nextInt(); // Input no. of words to be printed in each line
+        int index = l - n - 1; 
+        
+        for(int i=0;i<n-1;i++) { // Loop to print rows
+            for(int j=0;j<n;j++) { // Loop to print values.
                 System.out.print(str.charAt(index--));
                 if(index == -1) {
                     index = l-1;
