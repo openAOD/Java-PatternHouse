@@ -3,7 +3,7 @@ public class StringPattern3
 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        String str = s.nextLine();
+        String str = s.nextLine(); // Input String.
         int l = str.length();
         String rev = "";
         char ch;
