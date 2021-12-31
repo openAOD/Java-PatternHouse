@@ -13,3 +13,11 @@ public class StringPattern3
         }
     }
 }
+
+// Sample Input :- HOUSE
+// Output :-
+// H
+// HO
+// HOU
+// HOUS
+// HOUSE
