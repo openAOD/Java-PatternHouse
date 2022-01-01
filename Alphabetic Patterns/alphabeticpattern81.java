@@ -12,10 +12,10 @@ public class AlphabeticPattern81
             
             for(int k=1;k<=i;k++) {
                 if(i%2==0) {
-                    System.out.print(j);
+                    System.out.print(k);
                 }
                 else {
-                    System.out.print((char)(j+64));
+                    System.out.print((char)(k+64));
                 }
             }
             System.out.println();
