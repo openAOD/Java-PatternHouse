@@ -19,3 +19,11 @@ public class AlphabeticPattern78
         }
     }
 }
+
+// Sample Input :- 5
+// Output :-
+// 5 5 5 5 5
+// D D D D
+// 3 3 3
+// B B
+// 1
