@@ -11,7 +11,7 @@ public class AlphabeticPattern100
             for(int j=1;j<=n;j++) {
               
                 if (j==i || n-j+1 == i){
-                    char c = (char)((n-j+1) + 64);
+                    char c = (char)(n - j + 65);
                     System.out.print(c + " ");
                 }
                 else {
