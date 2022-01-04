@@ -21,7 +21,7 @@ public class AlphabeticPattern114
                 System.out.print("  ");
             }
             for(int k=n-i;k<n;k++) {
-                char c = (char)(i+65);
+                char c = (char)(k+65);
                 System.out.print(c + "   ");
             }
             System.out.println();
