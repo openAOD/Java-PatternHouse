@@ -5,14 +5,14 @@ public class AlphabeticPattern134
         Scanner s = new Scanner(System.in);
         
         int n = s.nextInt(); // Input no. of lines to be printed
-        for(int i = 1;i<=n;i++) {
-            for(int j=1;j<=n-i;j++) {
+        for(int i = 1; i <= n; i++) {
+            for(int j = 1; j <= n-i; j++) {
                 System.out.print("   ");
             }
-            for(int j=1;j<=i;j++) {
+            for(int j = 1; j <= i; j++) {
                 System.out.print(i + "  ");
             }
-            for(int j=1;j<=i;j++) {
+            for(int j = 1; j <= i; j++) {
                 System.out.print((char)(i+64) + "  ");
             }
             System.out.println();
