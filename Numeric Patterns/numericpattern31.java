@@ -2,23 +2,22 @@
  * pattern to be printed 
  * 
  *   1
- *   3 5
- *   7 9 11
- *   13 15 17 19
- *   21 23 25 27 29
- * numericpattern35
+ *   2 3
+ *   4 5 6
+ *   7 8 9 10
+ * numericpattern31
  * 
  */
-public class numericpattern35{
+public class numericpattern31{
     public static void main(String[] args) {
-        int rows = 5;
+        int rows = 4;
        numericPattern(rows);
     }
     private static void numericPattern(int n) {
         int c=1;
         for (int i = 1; i <= n; i++) {
             for (int j = 0; j < i; j++) {
-              System.out.print(2*c-1+" ");
+              System.out.print(c+" ");
               c++;
             }
             System.out.println();
