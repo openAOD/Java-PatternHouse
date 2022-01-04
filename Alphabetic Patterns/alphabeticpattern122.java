@@ -19,7 +19,7 @@ public class AlphabeticPattern121
     }
 }
 
-// Sample Input :- 2
+// Sample Input :- 3
 // Output :-
 // A
 //
