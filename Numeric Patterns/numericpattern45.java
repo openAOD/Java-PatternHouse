@@ -2,26 +2,26 @@
  * pattern to be printed 
  * 
  *   1
- *   0 0
- *   1 1 1
- *   0 0 0 0
- *   1 1 1 1 1 
- * numericpattern49
+ *   4 9
+ *   16 25 36
+ *   49 64 81 100
+ * numericpattern45
  * 
  */
-public class numericpattern49{
+public class numericpattern45{
     public static void main(String[] args) {
-        int rows = 5;
+        int rows = 4;
        numericPattern(rows);
     }
     private static void numericPattern(int n) {
+        int c=1;
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= i; j++) {
-            if(i%2!=0)  System.out.print(1+"  ");
-            else System.out.print(0+"  ");
+              System.out.print(c*c+"  ");
+            c++;  
             }
             System.out.println();
         }
-    } 
+    }  
 }
 
