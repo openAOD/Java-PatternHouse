@@ -5,7 +5,7 @@ public class numericpattern324 {
    5
    5 5 5 5 5
            5
-/* 5 5 5 5 5
+   5 5 5 5 5 */
 
 
     public static void main(String[] args) {
