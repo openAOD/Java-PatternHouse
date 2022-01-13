@@ -7,7 +7,6 @@ public class AlphabeticPattern188 {
         int counter = height/2;
         
         for (int i = 0; i < height; i++) {
-            //System.out.print("W ");
             
             for(int j = 0;j <= height; j++) {
                 
