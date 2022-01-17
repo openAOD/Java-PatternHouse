@@ -39,7 +39,7 @@ public class NumericPattern276 {
     }
 }
 
-// Sample Input :- 5
+// Sample Input :- 4
 // Output :-
 // 1  2  3  4  7  8  9 10
 //       5  6  7  4  5  6
