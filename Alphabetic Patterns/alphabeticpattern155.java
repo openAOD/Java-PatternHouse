@@ -4,7 +4,7 @@
      *
      *      */
 
-public class alphabeticpattern155 {
+class alphabeticpattern155 {
     public static void main(String[] args) {
         int row = 5;
         int column = 3;

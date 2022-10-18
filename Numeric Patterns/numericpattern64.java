@@ -9,7 +9,7 @@
  * numericpattern64
  * 
  */
-public class numericpattern64{
+class numericpattern64{
     public static void main(String[] args) {
         int rows = 5;
        numericPattern(rows);

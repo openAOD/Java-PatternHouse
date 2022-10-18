@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class AlphabeticPattern92
+class AlphabeticPattern92
 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);

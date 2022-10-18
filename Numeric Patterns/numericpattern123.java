@@ -11,7 +11,7 @@
  *          7
  * numericpattern123
  */
-public class numericpattern123 {
+class numericpattern123 {
 
  
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-public class pyramidpattern15 {
+class pyramidpattern15 {
 
     public static void main(String []args) {
         int n = 5;

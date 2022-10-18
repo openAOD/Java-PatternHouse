@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pyramidpattern86 {
+class pyramidpattern86 {
 
     static void printAlphabetTriangle (int total, int itr) {
 

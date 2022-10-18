@@ -9,7 +9,7 @@
  *    E E E E E
  * alphabeticpattern62
  */
-public class alphabeticpattern62 {
+class alphabeticpattern62 {
 
 
   public static void main(String[] args) {

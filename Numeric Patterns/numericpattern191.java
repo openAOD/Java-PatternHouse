@@ -6,7 +6,7 @@
 //  * 4 * 4
 //5 * 5 * 5
 
-public class numericpattern191 {
+class numericpattern191 {
     public static void main(String[] args) {
         int n= 5;
 

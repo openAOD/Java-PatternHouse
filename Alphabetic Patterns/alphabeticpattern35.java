@@ -8,7 +8,7 @@
 /**
  * alphabeticpattern35
  */
-public class alphabeticpattern35 {
+class alphabeticpattern35 {
     public static void main(String[] args) {
 
         int rows = 5;

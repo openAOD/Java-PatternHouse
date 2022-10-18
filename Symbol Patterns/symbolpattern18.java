@@ -1,4 +1,4 @@
-public class symbolpattern18 {
+class symbolpattern18 {
 
     public static void main(String []args){
         int n = 5;

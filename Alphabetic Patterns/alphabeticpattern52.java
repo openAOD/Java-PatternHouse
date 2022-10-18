@@ -11,7 +11,7 @@
  *        G
  * alphabeticpattern52
  */
-public class alphabeticpattern52 {
+class alphabeticpattern52 {
 
 
     public static void main(String[] args) {

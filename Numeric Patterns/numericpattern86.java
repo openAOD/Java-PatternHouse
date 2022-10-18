@@ -1,4 +1,4 @@
-public class numericpattern86
+class numericpattern86
 {
 	public static void main(String[] args) {
 		

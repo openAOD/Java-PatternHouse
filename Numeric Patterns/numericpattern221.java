@@ -6,7 +6,7 @@
 // DEFGHIJ
 //789123456
 
-public class numericpattern221 {
+class numericpattern221 {
     public static void main(String[] args) {
         int n = 5;
         int int_value = 1;

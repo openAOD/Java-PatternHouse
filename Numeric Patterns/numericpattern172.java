@@ -1,4 +1,4 @@
-public class numericpattern172
+class numericpattern172
 {
 	public static void main(String[] args) {
 		

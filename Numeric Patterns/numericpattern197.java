@@ -7,7 +7,7 @@
 //E E E E E
 
 
-public class numericpattern197 {
+class numericpattern197 {
     public static void main(String[] args) {
         int n = 5;
         char value = 'A';

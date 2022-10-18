@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pyramidpattern43 {
+class pyramidpattern43 {
 
     static void printUpperHalf (int totalLines) {
 

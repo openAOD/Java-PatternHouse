@@ -11,7 +11,7 @@
 
  * symbolpattern70
  */
-public class symbolpattern70 {
+class symbolpattern70 {
     public static void main(String[] args) {
         int rows = 6;
         symbolPattern(rows);

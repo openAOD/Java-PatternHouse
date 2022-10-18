@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NumericPattern142 {
+class NumericPattern142 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int height = s.nextInt(); // Input height of the pattern

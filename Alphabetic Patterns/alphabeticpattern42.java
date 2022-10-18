@@ -10,7 +10,7 @@
  *    
  * alphabeticpattern42
  */
-public class alphabeticpattern42 {
+class alphabeticpattern42 {
     public static void main(String[] args) {
 
         int rows = 6;

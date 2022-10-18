@@ -11,7 +11,7 @@
  * 
  * alphabeticpattern64
  */
-public class alphabeticpattern64 {
+class alphabeticpattern64 {
     public static void main(String[] args) {
 
         int rows = 5;

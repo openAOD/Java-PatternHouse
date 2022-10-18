@@ -10,7 +10,7 @@
  * 
  * alphabeticpattern57
  */
-public class alphabeticpattern57 {
+class alphabeticpattern57 {
     public static void main(String[] args) {
 
         int rows = 5;

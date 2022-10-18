@@ -10,7 +10,7 @@
  * 
  * numericpattern103
  */
-public class numericpattern103 {
+class numericpattern103 {
 
     public static void main(String[] args) {
 

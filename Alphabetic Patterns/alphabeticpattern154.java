@@ -1,4 +1,4 @@
-public class alphabeticpattern154 {
+class alphabeticpattern154 {
 
 /*        * * * * *
           *       *

@@ -8,7 +8,7 @@
 /**
  * alphabeticpattern36
  */
-public class alphabeticpattern36 {
+class alphabeticpattern36 {
 
     public static void main(String[] args) {
 

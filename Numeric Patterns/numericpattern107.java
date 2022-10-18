@@ -15,7 +15,7 @@
 
 import java.lang.Math;
 
-public class numericpattern107 {
+class numericpattern107 {
     public static void main(String[] args) {
 
         int rows = 5;

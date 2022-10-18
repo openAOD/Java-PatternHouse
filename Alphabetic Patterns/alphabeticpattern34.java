@@ -10,7 +10,7 @@
 /**
  * alphabeticpattern34
  */
-public class alphabeticpattern34 {
+class alphabeticpattern34 {
 
     public static void main(String[] args) {
 

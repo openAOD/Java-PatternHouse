@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class StringPattern12
+class StringPattern12
 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);

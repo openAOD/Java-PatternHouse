@@ -9,7 +9,7 @@
 
  */
 
-public class alphabeticpattern149 {
+class alphabeticpattern149 {
 
     public static void main(String[] args) {
         int row = 5;

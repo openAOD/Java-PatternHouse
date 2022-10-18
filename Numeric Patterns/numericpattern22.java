@@ -9,7 +9,7 @@
  * numericpattern22
  * 
  */
-public class numericpattern22 {
+class numericpattern22 {
     public static void main(String[] args) {
         int rows = 5;
        numericPattern(rows);

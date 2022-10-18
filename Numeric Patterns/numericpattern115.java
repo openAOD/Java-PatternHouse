@@ -9,7 +9,7 @@
  *          1
  * numericpattern115
  */
-public class numericpattern115 {
+class numericpattern115 {
     public static void main(String[] args) {
         int rows = 5;
         numericPattern115(rows);

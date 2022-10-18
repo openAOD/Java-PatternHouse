@@ -5,7 +5,7 @@
 // D D
 // E
 
-public class alphabeticpattern14 {
+class alphabeticpattern14 {
 
     public static void main(String[] args) {
 

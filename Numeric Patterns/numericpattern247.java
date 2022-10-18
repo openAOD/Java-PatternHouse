@@ -6,7 +6,7 @@
 //10 11
 //12
 
-public class numericpattern247 {
+class numericpattern247 {
     public static void main(String[] args) {
         int n = 5;
         int value = 1;

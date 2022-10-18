@@ -8,7 +8,7 @@
  * numericpattern31
  * 
  */
-public class numericpattern31{
+class numericpattern31{
     public static void main(String[] args) {
         int rows = 4;
        numericPattern(rows);

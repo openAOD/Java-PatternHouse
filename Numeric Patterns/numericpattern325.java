@@ -1,4 +1,4 @@
-public class numericpattern325 {
+class numericpattern325 {
     
     
       /*    6 6 6 6 6

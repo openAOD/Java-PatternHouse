@@ -5,7 +5,7 @@
 // 4     4
 //5       5
 
-public class numericpattern256 {
+class numericpattern256 {
     public static void main(String[] args) {
         int n = 5;
         for (int row = 1; row <= n; row++) {

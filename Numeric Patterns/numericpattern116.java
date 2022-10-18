@@ -10,7 +10,7 @@
  * 3
  * numericpattern116
  */
-public class numericpattern116 {
+class numericpattern116 {
     public static void main(String[] args) {
         int rows = 6;
         numericPattern116(rows);

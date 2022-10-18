@@ -8,7 +8,7 @@
  * 
  * symbolpattern21
  */
-public class symbolpattern21 {
+class symbolpattern21 {
     public static void main(String[] args) {
         int rows = 5;
         symbolPattern21(rows);

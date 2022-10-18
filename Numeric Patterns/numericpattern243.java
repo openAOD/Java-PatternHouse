@@ -6,7 +6,7 @@
 //6       7
 //8 9 10 11 12
 
-public class numericpattern243 {
+class numericpattern243 {
     public static void main(String[] args) {
         int n = 5;
         int value = 1;

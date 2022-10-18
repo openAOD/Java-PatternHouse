@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class pyramidpattern84 {
+class pyramidpattern84 {
 
     static void printDigitTriangle (int total) {
 

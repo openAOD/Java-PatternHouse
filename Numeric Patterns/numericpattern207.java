@@ -6,7 +6,7 @@
 //  D D D D
 //5 5 5 5 5
 
-public class numericpattern207 {
+class numericpattern207 {
     public static void main(String[] args) {
         int n = 5;
         char value = 'A';

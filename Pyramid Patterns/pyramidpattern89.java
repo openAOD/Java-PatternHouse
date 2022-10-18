@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pyramidpattern89 {
+class pyramidpattern89 {
 
     // Function to print white spaces
     static void printWhiteSpace (int total) {

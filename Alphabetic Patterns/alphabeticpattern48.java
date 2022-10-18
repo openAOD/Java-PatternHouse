@@ -12,7 +12,7 @@
  * 
  * alphabeticpattern48
  */
-public class alphabeticpattern48 {
+class alphabeticpattern48 {
 
     public static void main(String[] args) {
 

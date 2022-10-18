@@ -12,7 +12,7 @@
  * 
  * numericpattern119
  */
-public class numericpattern119 {
+class numericpattern119 {
     public static void main(String[] args) {
         int rows = 6;
         numericPattern119(rows);

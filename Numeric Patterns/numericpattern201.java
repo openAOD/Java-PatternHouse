@@ -6,7 +6,7 @@
 //2 2
 //A
 
-public class numericpattern201 {
+class numericpattern201 {
     public static void main(String[] args) {
         int n = 5;
         char value = (char) ('A' + (n-1));

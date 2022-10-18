@@ -5,7 +5,7 @@
 // *       *
 // * * * * *
 
-public class alphabeticpattern54 {
+class alphabeticpattern54 {
 
     public static void main(String[] args) {
 

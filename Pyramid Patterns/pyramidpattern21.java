@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pyramidpattern21 {
+class pyramidpattern21 {
 
     static void printPattern (int totalLines) {
 

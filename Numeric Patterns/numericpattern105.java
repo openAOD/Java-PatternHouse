@@ -11,7 +11,7 @@
  * 
  * numericpattern105
  */
-public class numericpattern105 {
+class numericpattern105 {
     public static void main(String[] args) {
 
         int rows = 5;

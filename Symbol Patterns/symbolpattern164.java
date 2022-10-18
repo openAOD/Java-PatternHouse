@@ -1,4 +1,4 @@
-public class symbolpattern {
+class symbolpattern {
 
     public static void main(String []args) {
         int n = 3, c1 = n*2 - 1, c2 = 3;

@@ -10,7 +10,7 @@
  * 
  * alphabeticpattern60
  */
-public class alphabeticpattern60 {
+class alphabeticpattern60 {
 
     public static void main(String[] args) {
 

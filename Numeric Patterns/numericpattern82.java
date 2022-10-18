@@ -1,4 +1,4 @@
-public class numericpattern82 {
+class numericpattern82 {
 
     public static void main(String []args) {
         int n = 5, num = n*(n+1)/2;

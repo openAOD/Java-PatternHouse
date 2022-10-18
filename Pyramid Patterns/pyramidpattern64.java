@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pyramidpattern64 {
+class pyramidpattern64 {
 
     static char swapCharacter (char character) {
 

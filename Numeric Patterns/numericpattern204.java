@@ -6,7 +6,7 @@
 //A B
 //1
 
-public class numericpattern204 {
+class numericpattern204 {
     public static void main(String[] args) {
         int n = 5;
         for (int row = 1; row <= n; row++) {

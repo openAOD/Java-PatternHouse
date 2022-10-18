@@ -6,7 +6,7 @@
 //A B C D
 //1 2 3 4 5
 
-public class numericpattern200 {
+class numericpattern200 {
     public static void main(String[] args) {
         int n = 5;
         for (int row = 1; row <= n; row++) {

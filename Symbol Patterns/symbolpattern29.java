@@ -10,7 +10,7 @@
  * 
  * symbolpattern29
  */
-public class symbolpattern29 {
+class symbolpattern29 {
     public static void main(String[] args) {
         int rows = 5;
         symbolPattern29(rows);

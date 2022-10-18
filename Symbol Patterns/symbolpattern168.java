@@ -1,4 +1,4 @@
-public class symbolpattern {
+class symbolpattern {
 
     public static void main(String []args) {
         int height = 3, width = 4, space = width*2, x = 1;

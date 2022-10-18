@@ -1,4 +1,4 @@
-public class numericpattern92 {
+class numericpattern92 {
 
     public static void main(String []args) {
         int n = 5, num = 1;

@@ -11,7 +11,7 @@
  * 1
  * numericpattern118
  */
-public class numericpattern118 {
+class numericpattern118 {
     public static void main(String[] args) {
         int rows = 6;
         numericPattern118(rows);

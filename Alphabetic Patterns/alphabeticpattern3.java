@@ -5,7 +5,7 @@
 // B B B B B
 // A A A A A
 
-public class alphabeticpattern3 {
+class alphabeticpattern3 {
     public static void main(String[] args) {
 
         int rows = 5;

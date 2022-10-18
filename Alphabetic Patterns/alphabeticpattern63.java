@@ -11,7 +11,7 @@
  * 
  * alphabeticpattern63
  */
-public class alphabeticpattern63 {
+class alphabeticpattern63 {
     public static void main(String[] args) {
 
         int rows = 5;

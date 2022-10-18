@@ -10,7 +10,7 @@
  * 
  * numericpattern106
  */
-public class numericpattern106 {
+class numericpattern106 {
     public static void main(String[] args) {
 
         int rows = 4;

@@ -9,7 +9,7 @@
 /**
  * alphabeticpattern32
  */
-public class alphabeticpattern32 {
+class alphabeticpattern32 {
 public static void main(String[] args) {
     int rows = 6;
     alphabetPattern32(rows);

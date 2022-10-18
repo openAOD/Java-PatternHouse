@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pyramidpattern71 {
+class pyramidpattern71 {
 
     static boolean ifNumber (int itr) {
 

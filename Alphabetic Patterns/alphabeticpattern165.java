@@ -1,4 +1,4 @@
-public class alphabeticpattern165 {
+class alphabeticpattern165 {
 
     public static void main(String []args) {
         int n = 5;

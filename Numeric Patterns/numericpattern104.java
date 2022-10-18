@@ -10,7 +10,7 @@
  * 
  * numericpattern104
  */
-public class numericpattern104 {
+class numericpattern104 {
     public static void main(String[] args) {
 
         int rows = 5;

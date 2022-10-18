@@ -8,7 +8,7 @@
 
  */
 
-public class alphabeticpattern153 {
+class alphabeticpattern153 {
 
     public static void main(String[] args) {
         int row = 5;

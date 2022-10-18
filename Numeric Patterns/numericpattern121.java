@@ -13,7 +13,7 @@
  * 
  * numericpattern121
  */
-public class numericpattern121 {
+class numericpattern121 {
 
 
     public static void main(String[] args) {

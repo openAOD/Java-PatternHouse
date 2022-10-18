@@ -13,7 +13,7 @@
  * 
  * alphabeticpattern51
  */
-public class alphabeticpattern51 {
+class alphabeticpattern51 {
 
 
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pyramidpattern27 {
+class pyramidpattern27 {
 
     static int middleSum (int lineNumber, int counter) {
 

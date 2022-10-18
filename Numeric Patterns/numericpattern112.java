@@ -7,7 +7,7 @@
  * 25 36 49 64 81
  * numericpattern112
  */
-public class numericpattern112 {
+class numericpattern112 {
 
     public static void main(String[] args) {
         int rows = 3;

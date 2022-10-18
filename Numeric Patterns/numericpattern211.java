@@ -6,7 +6,7 @@
 //       B B
 //         1
 
-public class numericpattern211 {
+class numericpattern211 {
     public static void main(String[] args) {
         int n = 5;
         char value = (char) (64+n);

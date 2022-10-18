@@ -1,4 +1,4 @@
-public class numericpattern324 {
+class numericpattern324 {
     
     
 /* 5 5 5 5 5

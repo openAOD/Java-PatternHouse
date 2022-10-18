@@ -7,7 +7,7 @@
 //  * 3 * 1
 //5 * 3 * 1
 
-public class numericpattern190 {
+class numericpattern190 {
     public static void main(String[] args) {
         int n= 5;
         for (int row = 1; row <= n; row++) {

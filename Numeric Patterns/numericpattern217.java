@@ -6,7 +6,7 @@
 //   2 2
 //    1
 
-public class numericpattern217 {
+class numericpattern217 {
     public static void main(String[] args) {
         int n =5;
         char value = (char) (65 + (n-1));

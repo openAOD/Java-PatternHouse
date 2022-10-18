@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pyramidpattern53 {
+class pyramidpattern53 {
 
     static void printWhitespace (int totalLines) {
 

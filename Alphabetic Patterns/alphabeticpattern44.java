@@ -10,7 +10,7 @@
  * 
  * alphabeticpattern44
  */
-public class alphabeticpattern44 {
+class alphabeticpattern44 {
     public static void main(String[] args) {
 
         int rows = 5;

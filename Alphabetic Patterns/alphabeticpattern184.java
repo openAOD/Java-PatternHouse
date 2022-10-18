@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AlphabeticPattern184 {
+class AlphabeticPattern184 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int height = s.nextInt(); // Input height of the pattern

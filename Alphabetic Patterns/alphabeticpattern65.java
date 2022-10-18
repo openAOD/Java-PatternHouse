@@ -12,7 +12,7 @@
  * 
  * alphabeticpattern65
  */
-public class alphabeticpattern65 {
+class alphabeticpattern65 {
 
     public static void main(String[] args) {
 

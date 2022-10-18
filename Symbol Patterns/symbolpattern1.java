@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class symbolpattern1 {
+class symbolpattern1 {
 
     static void printPattern (int totalLines) {
 

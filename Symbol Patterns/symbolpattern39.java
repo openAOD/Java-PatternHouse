@@ -9,7 +9,7 @@
 
  * symbolpattern39
  */
-public class symbolpattern39 {
+class symbolpattern39 {
     public static void main(String[] args) {
         int rows = 5;
         symbolPattern(rows);
