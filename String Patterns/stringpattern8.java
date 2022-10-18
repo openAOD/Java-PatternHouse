@@ -1,4 +1,4 @@
-[15:55, 31/12/2021] Mahak Garg: import java.util.Scanner ;
+import java.util.Scanner ;
 class StringPattern8
 {
     public static void main(String[] args) {
@@ -22,7 +22,7 @@ class StringPattern8
 }
 
 // Sample Input :- PatternHouse
-                   4
+//                 4
 // Output :-
 // Hnre
 // ttaP

@@ -31,7 +31,7 @@ class Wave_14
 
       cp--; // decrement print char
 
-      /reset print char to 'Z'/
+      //reset print char to 'Z'/
       if (cp < 'A')
       {
          cp = cp + 26;

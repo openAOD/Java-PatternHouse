@@ -22,7 +22,7 @@ class StringPattern7
 }
 
 // Sample Input :- PatternHouse
-                   4
+//                 4
 // Output :-
 // P a t t
 // e r n H

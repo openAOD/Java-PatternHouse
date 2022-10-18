@@ -1,12 +1,12 @@
- class Wave_19
+ class Wave_20
  {
      public static void main(String args[])
      {
  
      int wave_height = 5; //change  value to increase or 
-                    decrease the height of wave
+                    //decrease the height of wave
      int wave_length = 4; //change  value to increase or 
-                    decrease the length of wave
+                    //decrease the length of wave
  
      int i;
      int j;
@@ -17,7 +17,7 @@
      int inc = 1;
      int jump = (wave_height * 3) - (wave_height + 1);
  
-     int ch = 'a' + wave_height - 1;
+     int ch = 'Z' - wave_height + 1;
  
       
  
@@ -37,10 +37,10 @@
          {
           System.out.print(" ");
          }
-           ch += inc;
+           ch -= inc;
  
-           if (ch > 'z')
-           ch = ch - 26;
+           if (ch < 'A')
+           ch = ch + 26;
  
           System.out.print((char)ch);
  
@@ -50,9 +50,9 @@
          }
  
       System.out.print(" ");
-     ch += jump;
-     if (ch > 'z')
-     ch = ch - 26;
+     ch -= jump;
+     if (ch < 'A')
+     ch = ch + 26;
        }
  
          os=( (i + 1) != wave_height)?1:0;
@@ -64,7 +64,7 @@
          /* set value of is to 3 if i+1 is not equal to wave 
          height or 5 otherwise*/
  
-         ch = 'a' + wave_height - i - 1;
+         ch = 'Z' - wave_height + i + 1;
          inc = inc + 2;
          jump -= 2;
  
@@ -75,6 +75,6 @@
          System.out.print("\n");
      }
  
- 
+      
      }
  }

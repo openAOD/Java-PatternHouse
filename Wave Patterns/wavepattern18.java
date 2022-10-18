@@ -4,9 +4,9 @@ class Wave_18
      {
  
      int wave_height = 5; //change  value to increase or 
-                    decrease the height of wave
+                    //decrease the height of wave
      int wave_length = 4; //change  value to increase or 
-                    decrease the length of wave
+                    //decrease the length of wave
  
      int i;
      int j;

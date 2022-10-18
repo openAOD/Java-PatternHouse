@@ -22,6 +22,7 @@ class StringPattern10
             System.out.println();
         }
     }
+}
     
     // Sample Input :- PatternHouse
     //                 5

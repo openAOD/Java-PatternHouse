@@ -1,12 +1,12 @@
-class Wave_26
+class Wave_27
  {
      public static void main(String args[])
      {
  
      int wave_height = 5; //change  value to increase or 
-                    decrease the height of wave
+                    //decrease the height of wave
      int wave_length = 4; //change  value to increase or 
-                    decrease the length of wave
+                    //decrease the length of wave
  
      int i;
      int j;
@@ -22,7 +22,7 @@ class Wave_26
        {
          if (i == k || i + k == wave_height + 1)
          {
-         System.out.print("][");
+         System.out.print(">>");
          }
          else
          {

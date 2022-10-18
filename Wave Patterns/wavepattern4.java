@@ -1,4 +1,4 @@
-class Wave_7
+class Wave_4
 {
    public static void main(String args[])
    {
@@ -16,7 +16,7 @@ class Wave_7
 
     for (int i = 0;i <= wH;i++)
     {
-     cp = 'z'; // set print char.
+     cp = 'A'; // set print char.
 
      for (int j = 0;j <= wH * wL * 2;j++)
      {
@@ -29,18 +29,18 @@ class Wave_7
          System.out.print(" ");
          }
 
-      cp--; // decrement print char
+      cp++; // increment print char
 
-      /reset print char to 'z'/
-      if (cp < 'a')
+      //reset print char to 'A'/
+      if (cp > 'Z')
       {
-         cp = cp + 26;
+         cp = cp - 26;
       }
 
      }
      x--;
      System.out.println();
     }
-
     
    }
+}
