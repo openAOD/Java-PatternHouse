@@ -29,6 +29,7 @@ class AlphabeticPattern96
             System.out.println();
         }
     }
+}
   
   // Sample Input :- 5
   // Output :-
